@@ -46,7 +46,7 @@ int main()
 	Notice how there is a semicolon at the end of the
 	line. This tells the compiler that this line of code
 	is done executing. Remember how we said newlines
-	don't matter? We could technically right every line
+	don't matter? We could technically write every line
 	of code on one line together. This is bad practice,
 	so the things that pyhton forces, such as tabs at
 	the beginning of certain lines and newlines before
