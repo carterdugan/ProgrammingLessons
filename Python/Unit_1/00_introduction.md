@@ -32,5 +32,7 @@ If you don't get the output `Hello, world!`, please ask your teacher for help or
 
 ## Getting Help
 
+Python produces helpful error messages for many issues relating to your code. Make sure to read those error messages when they appear. Try googling those messages when you are unsure what they mean.
+
 For getting help, be sure to google your question first. In the beginning stages, many questions you might have will have already been asked in the past.
 The most common place that you will find questions and answers is [Stack Overflow](https://stackoverflow.com/).
