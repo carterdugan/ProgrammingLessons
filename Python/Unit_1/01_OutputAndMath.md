@@ -34,4 +34,4 @@ print(5 * 2)
 print(4 / 2)
 ```
 
-As expected, the symbols `+`, `-`, `*` and `/` are for addition, subtraction, multiplication and division.
+As expected, the symbols `+`, `-`, `*` and `/` are for addition, subtraction, multiplication and division respectively.
