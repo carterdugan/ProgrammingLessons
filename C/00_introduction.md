@@ -23,7 +23,7 @@ I encourage beginners to start with the CodeBlocks IDE. However if you are tryin
 
 ### Important Notes for Non-Beginners
 
-All of this code will be written and tested using the GCC compiler unless otherwise stated I will also be using the compiler flags `-Wall`, `-Wextra` and `-ansi`. When we get to more advanced topics I encourage you to use the GCC compiler and the ANSI standard as well. I will state this again when we get to that point.
+All of this code will be written and tested using the GCC compiler unless otherwise stated. I will also be using the compiler flags `-Wall`, `-Wextra` and `-ansi`. When we get to more advanced topics I encourage you to use the GCC compiler and the ANSI standard as well. I will state this again when we get to that point.
 
 ---
 
