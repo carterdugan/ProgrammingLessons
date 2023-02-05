@@ -25,6 +25,14 @@ I encourage beginners to start with the CodeBlocks IDE. However if you are tryin
 
 All of this code will be written and tested using the GCC compiler unless otherwise stated. I will also be using the compiler flags `-Wall`, `-Wextra` and `-ansi`. When we get to more advanced topics I encourage you to use the GCC compiler and the ANSI standard as well. I will state this again when we get to that point.
 
+### Tips for Learning
+
+Before we begin there are a few tips I have for you to help you learn. First off, experiment with what you learn. Go outside of these lessons and make small toy projects. Work ahead using the supplemental material if you would like. You may find the other tutorials to suit you better than this one, and maybe this will become more supplemental. There is no right way to learn, but you can definitely make your life easier by experimenting with what you learn and the resources at your disposal.
+
+Talk to other programmers. Find communities that allow you to ask questions. There are amazing resources to do this, such as forumns like reddit and stack overflow, or chat rooms like discord. If you are in a classroom environment, talk to your peers and learn from each other. Help others and accept help from others.
+
+Lastly, Google is your friend. Google questions you may have, errors you may get, just about anything you could want. At the beginning stages and even in later stages, you will often find that questions you come across have been asked before.
+
 ---
 
 ## First program
